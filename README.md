@@ -1,5 +1,5 @@
 # dashboard-light-dark
-Dashboard Responsivo HTML, CSS and JS ... Light and Dark option. 
+Dashboard HTML, CSS and JS ... Light and Dark option. 
 
 --> TO USE IN OTHER PROJECTS ----------------------------------|
 
